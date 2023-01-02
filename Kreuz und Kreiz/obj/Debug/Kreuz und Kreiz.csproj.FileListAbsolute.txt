@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\Kreuz und Kreiz\Kreuz und Kreiz\bin\Debug\Kreuz und Kreiz.exe.config
+C:\Users\Lenovo\source\repos\Kreuz und Kreiz\Kreuz und Kreiz\bin\Debug\Kreuz und Kreiz.exe
+C:\Users\Lenovo\source\repos\Kreuz und Kreiz\Kreuz und Kreiz\bin\Debug\Kreuz und Kreiz.pdb
+C:\Users\Lenovo\source\repos\Kreuz und Kreiz\Kreuz und Kreiz\obj\Debug\Kreuz und Kreiz.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\Kreuz und Kreiz\Kreuz und Kreiz\obj\Debug\Kreuz_und_Kreiz.FormMain.resources
+C:\Users\Lenovo\source\repos\Kreuz und Kreiz\Kreuz und Kreiz\obj\Debug\Kreuz_und_Kreiz.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\Kreuz und Kreiz\Kreuz und Kreiz\obj\Debug\Kreuz und Kreiz.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\Kreuz und Kreiz\Kreuz und Kreiz\obj\Debug\Kreuz und Kreiz.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Kreuz und Kreiz\Kreuz und Kreiz\obj\Debug\Kreuz und Kreiz.exe
+C:\Users\Lenovo\source\repos\Kreuz und Kreiz\Kreuz und Kreiz\obj\Debug\Kreuz und Kreiz.pdb
+C:\Users\Lenovo\source\repos\Kreuz und Kreiz\Kreuz und Kreiz\bin\Debug\Guna.UI2.dll
+C:\Users\Lenovo\source\repos\Kreuz und Kreiz\Kreuz und Kreiz\obj\Debug\Kreuz und Kreiz.csproj.CopyComplete
+C:\Users\Lenovo\source\repos\Kreuz und Kreiz\Kreuz und Kreiz\obj\Debug\Kreuz_und_Kreiz.FrmPlayer1.resources
+C:\Users\Lenovo\source\repos\Kreuz und Kreiz\Kreuz und Kreiz\obj\Debug\Kreuz_und_Kreiz.FrmPlayer2.resources
